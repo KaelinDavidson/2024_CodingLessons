@@ -12,7 +12,7 @@ public class HelloWithName {
 
         String name = scanner.nextLine();
 
-        System.out.println("Hello " + name);
+        System.out.println("Hello " + name + ".");
 
     }
 
